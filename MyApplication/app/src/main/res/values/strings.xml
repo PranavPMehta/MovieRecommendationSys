@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="genre">
+        <item>Animation</item>
+        <item>Horror</item>
+        <item>Comedy</item>
+        <item>Thriller</item>
+        <item>Romance</item>
+        <item>Adventure</item>
+        <item>Drama</item>
+    </string-array>
+</resources>
